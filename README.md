@@ -4,8 +4,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Dart   18 mins         ████████████████████████▒   97.37 %
-YAML   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
