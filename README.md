@@ -4,7 +4,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+JSON         12 mins         ███████▒░░░░░░░░░░░░░░░░░   29.76 %
+PHP          10 mins         ██████░░░░░░░░░░░░░░░░░░░   24.43 %
+HTML         7 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.54 %
+Bash         7 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.10 %
+SCSS         4 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.49 %
 ```
 
 <!--END_SECTION:waka-->
