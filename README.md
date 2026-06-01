@@ -4,10 +4,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   50 mins               ███████████████▒░░░░░░░░░   61.18 %
-Text       27 mins               ████████▒░░░░░░░░░░░░░░░░   33.82 %
-Dart       3 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 %
-Bash       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
