@@ -4,11 +4,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python       4 hrs 16 mins         ██████████████▒░░░░░░░░░░   57.83 %
-TypeScript   2 hrs 23 mins         ████████░░░░░░░░░░░░░░░░░   32.34 %
-TSConfig     15 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
-SCSS         12 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
-Other        7 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
