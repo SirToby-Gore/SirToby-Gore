@@ -4,7 +4,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Markdown     1 hr 36 mins          ███████████░░░░░░░░░░░░░░   44.37 %
+TypeScript   1 hr 19 mins          █████████▒░░░░░░░░░░░░░░░   36.68 %
+JavaScript   14 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.61 %
+JSON         12 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.76 %
+HTML         8 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 %
 ```
 
 <!--END_SECTION:waka-->
